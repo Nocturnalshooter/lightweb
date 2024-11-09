@@ -1,0 +1,24 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+#button_12e144f2 { vertical-align: bottom; border-radius: 15px 0px 15px 0px; position:relative; display: inline-block; float:right; width:150px; height:40px; background-color:#0080C0; background: linear-gradient(to bottom, #FF0000, #0080C0);  }
+#button_12e144f2:hover { background-color:#0070C5; background: linear-gradient(to bottom, #FF0050, #0070C5);  }
+#button_12e144f2:hover span { color:#FFFFFF; }
+#button_7e822e07 { vertical-align: bottom; border-radius: 15px 0px 15px 0px; position:relative; display: inline-block; float:right; width:150px; height:40px; background-color:#0080C0; background: linear-gradient(to bottom, #FF0000, #0080C0);  }
+#button_7e822e07:hover { background-color:#0070C5; background: linear-gradient(to bottom, #FF0050, #0070C5);  }
+#button_7e822e07:hover span { color:#FFFFFF; }
+body { background-color:#2C2CFF; background: linear-gradient(to bottom, #800040, #2C2CFF); background-repeat: no-repeat; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#heading_365f079f { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:40pt; font-family:Impact, Charcoal, sans-serif; color:#000000; text-align:left;  }
+#text_3a151bc { position:absolute; left:0%; top:7%; background:none;  }
+.textstyle4 { font-size:20pt; font-family:'Lucida Console', Monaco, monospace; color:#000000;  }
+#text_2ea1b31f { position:absolute; left:0%; top:12%; background:none;  }
+#text_77988867 { position:absolute; left:1%; top:98%; width:116px; height:12px; background:none;  }
+.textstyle5 { font-size:8pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
